@@ -1,0 +1,22 @@
+body {
+	font-family: Arial;
+	font-size: medium;
+	background-color: goldenrod;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	
+}
+h1 {
+	font-size: 300%;
+}
+P {
+	color: red;
+}
+ul {
+	text-align:left;
+}
+div{
+	background-color:#000000;
+	text-align: center;
+	color: red;
+}
